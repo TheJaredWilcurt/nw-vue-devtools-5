@@ -1,0 +1,24 @@
+{
+  "name": "nw-vue-devtools-5",
+  "version": "5.0.0",
+  "description": "Vue DevTools (v5) for NW.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJaredWilcurt/nw-vue-devtools-5.git"
+  },
+  "author": "The Jared Wilcurt",
+  "license": "MIT",
+  "keywords": [
+    "Vue.js",
+    "NW.js",
+    "Developer Tools",
+    "vue-devtools",
+    "vue-devtools-prebuilt",
+    "desktop"
+  ],
+  "bugs": {
+    "url": "https://github.com/TheJaredWilcurt/nw-vue-devtools-5/issues"
+  },
+  "homepage": "https://github.com/TheJaredWilcurt/nw-vue-devtools-5#readme"
+}
